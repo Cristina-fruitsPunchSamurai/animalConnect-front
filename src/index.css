@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    margin: 10px 20px 0 20px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+}
+
+#slider-title{
+    font-family: 'Pacifico';
+    color: #7c5a59ff;
+}
